@@ -79,7 +79,7 @@ The only prerequisites beyond those required for Caffe are `python-opencv`, `sci
 
 #### Ubuntu:
 
-    $ sudo apt-get install python-opencv scipy python-skimage
+    $ sudo apt-get install python-opencv python-scipy python-skimage
 
 #### Mac using [homebrew](http://brew.sh/):
 
